@@ -19,7 +19,7 @@ on:
 
 env:
   REGISTRY: registry.tanzu.dk
-  IMAGE_NAME: ops2devops/student2
+  IMAGE_NAME: ops2devops/student02
 
 
 jobs:
